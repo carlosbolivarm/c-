@@ -7,7 +7,7 @@ Title of Project: Multitasking Tool.
 
 # PROJECT FUNCTIONALITY
 
-This project have three different tools available to use, which are, a calculator, a unit converter, and a currency converter.
+This project has three different tools available to use, which are, a calculator, a unit converter, and a currency converter.
 
 
 # PROJECT REASON

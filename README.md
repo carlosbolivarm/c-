@@ -20,3 +20,6 @@ I decided to build this multitasking tool, because I wanted to create something 
 Carlos Bolivar (me).
 
 Github handle: carlosbolivarm
+
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{carlosbolivarm}/{c}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{carlosbolivarm}/{c})

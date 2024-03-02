@@ -25,5 +25,5 @@ Github handle: carlosbolivarm
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/carlosbolivarm/c-/badge)](https://securityscorecards.dev/viewer/?uri=github.com/carlosbolivarm/c-)
 
 
-<a href="https://www.bestpractices.dev/projects/8561"><img src="https://www.bestpractices.dev/projects/8561/badge"></a>
+<a href="https://www.bestpractices.dev/en/projects/8561"><img src="https://www.bestpractices.dev/en/projects/8561/badge"></a>
 
